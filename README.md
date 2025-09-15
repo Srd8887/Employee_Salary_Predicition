@@ -1,4 +1,3 @@
-readme_content = """# 💼 Employee Salary Prediction using Linear Regression  
 
 > *“Can we predict how much an employee should earn based on their experience, role, and skills?”*  
 This project dives into that question using **Linear Regression** 📈.  
